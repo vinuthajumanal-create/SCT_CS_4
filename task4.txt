@@ -1,0 +1,4 @@
+=== Advanced Password Strength Checker ===
+Enter your password: Thanvi@24!86
+Password Strength: Very Strong 💪
+Excellent password! No improvements needed.
